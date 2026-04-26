@@ -46,7 +46,13 @@ git clone https://github.com/DuduPOG/Projeto-Comercio-Eletronico-Django-Ninja.gi
 
 # 🐍 BACKEND — Django Ninja
 
-## 2. Ativar ambiente virtual
+## 2. Criar ambiente virtual Python
+
+```bash
+python -m venv {nome do ambiente}
+```
+
+## Ativar ambiente
 
 **Linux/macOS**
 
