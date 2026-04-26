@@ -46,14 +46,7 @@ git clone https://github.com/DuduPOG/Projeto-Comercio-Eletronico-Django-Ninja.gi
 
 # 🐍 BACKEND — Django Ninja
 
-## 2. Criar ambiente virtual
-
-```bash
-cd backend
-python -m venv venv
-```
-
-### Ativar ambiente
+## 2. Ativar ambiente virtual
 
 **Linux/macOS**
 
@@ -136,6 +129,7 @@ Para manter organização e aprendizado:
 
 ## 🟢 Etapa 1 — Base
 
+* Criar tela no Figma (opcional)
 * Listar posts
 * Criar posts
 * Layout simples
