@@ -128,7 +128,7 @@ Para manter organização e aprendizado:
 
 * ✅ Commits pequenos e frequentes
 * ✅ Cada funcionalidade deve funcionar antes de avançar
-* ✅ Reunião todo final de semana para apresentar a evoução individual
+* ✅ Reunião todo final de semana para apresentar a evolução individual
 * ❌ Não pular etapas
 * ❌ Não copiar código sem entender
 
