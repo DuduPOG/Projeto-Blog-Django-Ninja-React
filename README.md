@@ -1,6 +1,8 @@
 # Projeto-Blog-Django-Ninja-React
+
 Repositório para prática de Django Ninja e React para os contribuidores terem condições de ganhar dinheiro com desenvolvimento de software
-# 🚀 Bootcamp Fullstack — Diário Pessoal (Django Ninja + React)
+
+## 🚀 Bootcamp Fullstack — Diário Pessoal (Django Ninja + React)
 
 Este repositório é a base de um bootcamp prático onde cada participante irá desenvolver um **blog/diário pessoal** utilizando:
 
@@ -11,7 +13,7 @@ O objetivo é aprender **fullstack na prática**, construindo uma aplicação re
 
 ---
 
-# 📌 📖 Sobre o Projeto
+## 📌 📖 Sobre o Projeto
 
 A aplicação será um **diário pessoal com posts organizados por tópicos**:
 
@@ -22,9 +24,9 @@ A aplicação será um **diário pessoal com posts organizados por tópicos**:
 
 ---
 
-# 🧱 Estrutura do Projeto
+## 🧱 Estrutura do Projeto
 
-```
+```bash
 meu-bootcamp/
 │
 ├── backend/        # Django + Ninja
@@ -34,9 +36,9 @@ meu-bootcamp/
 
 ---
 
-# ⚙️ 🔧 Setup Inicial (OBRIGATÓRIO)
+## ⚙️ 🔧 Setup Inicial (OBRIGATÓRIO)
 
-## 1. Clonar o repositório
+### 1. Clonar o repositório
 
 ```bash
 git clone https://github.com/DuduPOG/Projeto-Comercio-Eletronico-Django-Ninja.git
@@ -44,23 +46,23 @@ git clone https://github.com/DuduPOG/Projeto-Comercio-Eletronico-Django-Ninja.gi
 
 ---
 
-# 🐍 BACKEND — Django Ninja
+## 🐍 BACKEND — Django Ninja
 
-## 2. Criar ambiente virtual Python
+### 2. Criar ambiente virtual Python
 
 ```bash
-python -m venv {nome do ambiente}
+python -m venv {'nome do ambiente'}
 ```
 
-## Ativar ambiente
+### Ativar ambiente
 
-**Linux/macOS**
+* **Linux/macOS**
 
 ```bash
 source venv/bin/activate
 ```
 
-**Windows**
+* **Windows**
 
 ```bash
 venv\Scripts\activate
@@ -68,7 +70,7 @@ venv\Scripts\activate
 
 ---
 
-## 3. Instalar dependências
+### 3. Instalar dependências
 
 ```bash
 pip install -r requirements.txt
@@ -76,7 +78,7 @@ pip install -r requirements.txt
 
 ---
 
-## 4. Rodar servidor backend
+### 4. Rodar servidor backend
 
 ```bash
 python manage.py runserver
@@ -87,9 +89,9 @@ A API estará disponível em:
 
 ---
 
-# ⚛️ FRONTEND — React
+## ⚛️ FRONTEND — React
 
-## 5. Instalar dependências
+### 5. Instalar dependências
 
 ```bash
 cd frontend
@@ -98,7 +100,7 @@ npm install
 
 ---
 
-## 6. Rodar frontend
+### 6. Rodar frontend
 
 ```bash
 npm run dev
@@ -109,17 +111,17 @@ O frontend estará em:
 
 ---
 
-# 🔗 Integração
+## 🔗 Integração
 
 O React irá consumir a API do Django em:
 
-```
+```bash
 http://localhost:8000/api/
 ```
 
 ---
 
-# 📋 📚 Regras do Bootcamp
+## 📋 📚 Regras do Bootcamp
 
 Para manter organização e aprendizado:
 
@@ -131,9 +133,9 @@ Para manter organização e aprendizado:
 
 ---
 
-# 📈 Roadmap de Desenvolvimento
+## 📈 Roadmap de Desenvolvimento
 
-## 🟢 Etapa 1 — Base
+### 🟢 Etapa 1 — Base
 
 * Criar tela no Figma (opcional)
 * Listar posts
@@ -142,7 +144,7 @@ Para manter organização e aprendizado:
 
 ---
 
-## 🟡 Etapa 2 — Tópicos
+### 🟡 Etapa 2 — Tópicos
 
 * Criar tópicos
 * Filtrar posts por tópico
@@ -150,14 +152,14 @@ Para manter organização e aprendizado:
 
 ---
 
-## 🟠 Etapa 3 — CRUD completo
+### 🟠 Etapa 3 — CRUD completo
 
 * Editar post
 * Deletar post
 
 ---
 
-## 🔵 Etapa 4 — Melhorias
+### 🔵 Etapa 4 — Melhorias
 
 * Loading
 * Feedback de erro
@@ -165,7 +167,7 @@ Para manter organização e aprendizado:
 
 ---
 
-## 🔴 Etapa 5 — Avançado (opcional)
+### 🔴 Etapa 5 — Avançado (opcional)
 
 * Login (autenticação)
 * Usuários
@@ -173,7 +175,7 @@ Para manter organização e aprendizado:
 
 ---
 
-# 💡 Dicas Importantes
+## 💡 Dicas Importantes
 
 * Sempre verifique o console do navegador (F12)
 * Use o Django Admin para testar dados
@@ -181,7 +183,7 @@ Para manter organização e aprendizado:
 
 ---
 
-# 🧪 Testando a API
+## 🧪 Testando a API
 
 Acesse no navegador:
 
@@ -189,7 +191,7 @@ Acesse no navegador:
 
 ---
 
-# 🆘 Problemas Comuns
+## 🆘 Problemas Comuns
 
 ### CORS error
 
@@ -205,7 +207,7 @@ Acesse no navegador:
 
 ---
 
-# 🎯 Objetivo Final
+## 🎯 Objetivo Final
 
 Cada participante terá um:
 
@@ -215,6 +217,6 @@ Cada participante terá um:
 
 ---
 
-# 🚀 Bora codar
+## 🚀 Bora codar
 
 Se travar, pergunte, investigue e tente entender — isso faz parte do processo.
