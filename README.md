@@ -31,6 +31,7 @@ meu-bootcamp/
 │
 ├── backend/        # Django + Ninja
 ├── frontend/       # React
+├── {venv}/ # Ambiente virtual para instalação de dependências e execução do projeto
 └── README.md
 ```
 
@@ -48,7 +49,7 @@ git clone https://github.com/DuduPOG/Projeto-Comercio-Eletronico-Django-Ninja.gi
 
 ## 🐍 BACKEND — Django Ninja
 
-### 2. Criar ambiente virtual Python
+### 2. Criar ambiente virtual Python (instalar na raiz do projeto)
 
 ```bash
 python -m venv {'nome do ambiente'}
@@ -59,13 +60,13 @@ python -m venv {'nome do ambiente'}
 * **Linux/macOS**
 
 ```bash
-source venv/bin/activate
+source {'nome do ambiente'}/bin/activate
 ```
 
 * **Windows**
 
 ```bash
-venv\Scripts\activate
+{'nome do ambiente'}\Scripts\activate
 ```
 
 ---
